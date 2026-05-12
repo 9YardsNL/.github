@@ -26,5 +26,5 @@ Sometimes. We’re 5 people who quite enjoy not being 80. If you know your way a
 ## Find us
 
 - 🌍 [9yards.nl](https://9yards.nl)
-- 📧 hello@9yards.nl
+- 📧 info@9yards.nl
 - 📍 Amsterdam, NL
